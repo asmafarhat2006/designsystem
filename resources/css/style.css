@@ -1,0 +1,57 @@
+.colorscontainer,.fontscontainer,.textstylescontainer{
+  border:1px solid gray;
+  padding: 40px 20px;
+
+}
+.colorscontainer div{
+  text-align:center;
+  display:inline-block;
+  width:400px;
+  height:100px;
+}
+.tomatocolor{
+  background-color:rgb(255, 99, 71);
+}
+.violetcolor{
+  background-color:rgb(238, 130, 238);
+}
+.mustardcolor{
+  background-color: rgb(255, 165, 0);
+}
+.fontscontainer div{
+  text-align:center;
+  display:inline-block;
+  width:400px;
+  height:100px;
+}
+.balletfont{
+  font-family: 'Ballet', cursive;
+}
+.reggaefont{
+  font-family: 'Reggae One', cursive;
+}
+.rubikfont{
+  font-family: "Rubik", sans-serif;
+}
+.fontweight400{
+  font-weight:400;
+
+}
+.fontweight600{
+  font-weight:600;
+  
+}
+.fontweight900{
+  font-weight:900;
+  
+}
+.textstylescontainer article h1{
+  font-weight:700;
+  font-family:'Ballet',cursive;
+  font-size:26px;
+}
+.textstylescontainer article h2{
+  font-weight:500;
+  font-family:'Reggae One',cursive;
+  font-size:18px;
+}
